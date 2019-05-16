@@ -5,7 +5,8 @@
       },
       {
          "name":"Dark"
-      }
+      },
+         "name":"Geometry"
    ],
    "Wallpapers":[
       {
@@ -35,6 +36,13 @@
          "thumbUrl":"https://raw.githubusercontent.com/abhinavgupta371/EvoXPapers/master/Dark/Evo-wall8.jpg",
          "name":"RGYB Evolution",
          "category":"Dark"
+      },
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Geometry/evo-planetary.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Geometry/evo-planetary.jpg",
+         "name":"Planetary Evolution",
+         "category":"Geometry"
       }
    ]
 }
