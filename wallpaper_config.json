@@ -8,6 +8,9 @@
       },
       {
          "name":"Geometry"
+      },
+      {
+         "name":"Misc"
       }
    ],
    "Wallpapers":[
@@ -45,6 +48,13 @@
          "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Geometry/evo-planetary.jpg",
          "name":"Planetary Evolution",
          "category":"Geometry"
+      },
+      {
+         "author":"Team Evolution",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Misc/evo-waves.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Misc/evo-waves.jpg",
+         "name":"Wavey Evolution",
+         "category":"Misc"
       }
    ]
 }
