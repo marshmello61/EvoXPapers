@@ -132,7 +132,14 @@
          "author":"Mayur",
          "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/SpaceMan/evo-astraunot-hanging-X.jpg",
          "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/SpaceMan/evo-astraunot-hanging-X.jpg",
-         "name":"X Evolution Balloon",
+         "name":"Spaceman hanging on Evolution",
+         "category":"Spaceman"
+      },
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/SpaceMan/evo-astraounat-holding-X.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/SpaceMan/evo-astraounat-holding-X.jpg",
+         "name":"Spaceman holding Evolution",
          "category":"Spaceman"
       }
    ]
