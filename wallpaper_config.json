@@ -17,6 +17,9 @@
       },
       {
          "name":"Spaceverse"
+      },
+      {
+         "name":"Spaceman"
       }
    ],
    "Wallpapers":[
@@ -124,6 +127,13 @@
          "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/Scenary/evo-moon-%20starfall.jpg",
          "name":"Evolutionary Shower",
          "category":"Scenary"
+      }
+      {
+         "author":"Mayur",
+         "url":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/SpaceMan/evo-astraunot-hanging-X.jpg",
+         "thumbURL":"https://raw.githubusercontent.com/marshmello61/EvoXPapers/master/SpaceMan/evo-astraunot-hanging-X.jpg",
+         "name":"X Evolution Balloon",
+         "category":"Spaceman"
       }
    ]
 }
